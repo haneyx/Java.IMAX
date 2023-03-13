@@ -1,0 +1,8 @@
+1. Click en iniciar.bat
+2. Se inicia una ventana llamada 
+Administrador IMAX1 en abajo
+3. Para terminar hacer click en administrador
+y presionar las teclas CRTL+C
+o reiniciar.
+
+Created by HANEY2012
